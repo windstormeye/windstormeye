@@ -12,13 +12,12 @@ Outside of work, I enjoy cycling, hiking, and running. I'm an individual develop
 ![javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
-
-![AppleOS](https://img.shields.io/badge/-AppleOS-333333?style=flat&logo=Apple)
-
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![Cocos](https://img.shields.io/badge/-Cocos-333333?style=flat&logo=Cocos)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
+
+![AppleOS](https://img.shields.io/badge/-AppleOS-333333?style=flat&logo=Apple)
 
 
 ### 📱 My Apps
