@@ -22,8 +22,27 @@ Outside of work, I enjoy cycling, hiking, and running. I'm an individual develop
 
 ### 📱 My Apps
 
-[PhotoP](https://apps.apple.com/us/app/photop/id1639575048): Focus on macOS photo edit app.
-
-[星球罐子](https://apps.apple.com/us/app/星球罐子/id1502901744): Using Cocos2d-x and C++ tech stack native game.
-
-[Vary](https://apps.apple.com/us/app/vary/id1190496148): Personal social networks.
+<table style="width:100%; table-layout:fixed">
+  <tr>
+    <th>PhotoP: 专注 macOS 平台的修图工具</th>
+    <th>星球罐子: 拥有属于你的宇宙</th>
+    <th>Vary: Create & Share</th>
+  </tr>
+  <tr>
+    <td>
+		<a href="https://apps.apple.com/us/app/photop/id1639575048">
+			<img src="http://pjhubs.com/images/app/photop/1.0/0.jpg" />
+		</a>
+	</td>
+    <td>
+		<a href="https://apps.apple.com/us/app/星球罐子/id1502901744">
+			<img src="http://pjhubs.com/images/qiniu_img/截屏2020-03-18下午3.57.43.png" />
+		</a>
+	</td>
+    <td>
+		<a href="[https://github.com/chroma-works/NeoDoa](https://apps.apple.com/us/app/vary/id1190496148)">
+			<img src="https://blogfile.dandyweng.com/2017/02/wall-of-cards-1920x1080-copyright.jpg" />
+		</a>
+	</td>
+  </tr>
+</table>
