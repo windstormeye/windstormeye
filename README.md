@@ -1,4 +1,4 @@
-### 👋 Hello, I'm 翁培钧, AKA `PJHubs` | [pjhubs.com](http://pjhubs.com)
+### 👋 Hello, I'm 翁培钧, AKA `PJHubs`
 
 ![info](https://github-readme-stats.vercel.app/api?username=windstormeye&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
