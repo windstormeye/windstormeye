@@ -1,7 +1,5 @@
 ### 👋 Hello, I'm 翁培钧, AKA `PJHubs`
 
-![info](https://github-readme-stats.vercel.app/api?username=windstormeye&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-
 Work for ByteDance. My products included [CupCut](https://www.capcut.cn), [Xigua Video](https://www.ixigua.com) and [TouTiao](https://www.toutiao.com).
 Outside of work, I enjoy cycling, hiking, and running. I'm an individual developer, making apps with my interests in mind.
 
