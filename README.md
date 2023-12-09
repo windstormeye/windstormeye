@@ -42,7 +42,7 @@ Outside of work, I enjoy cycling, hiking, and running. I'm an individual develop
 	</td>
     <td>
 		<a href="[https://github.com/chroma-works/NeoDoa](https://apps.apple.com/us/app/vary/id1190496148)">
-			<img src="https://blogfile.dandyweng.com/2017/02/wall-of-cards-1920x1080-copyright.jpg" />
+			<img src="https://blog.dandyweng.com/files/2017/02/wall-of-cards-1920x1080-copyright.jpg" />
 		</a>
 	</td>
   </tr>
