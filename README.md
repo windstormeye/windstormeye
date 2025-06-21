@@ -3,24 +3,6 @@
 Work for ByteDance. My products included [CupCut](https://www.capcut.cn), [Xigua Video](https://www.ixigua.com) and [TouTiao](https://www.toutiao.com).
 Outside of work, I enjoy cycling, hiking, and running.
 
-### 🔧 Tech Stack
-
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
-![C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C)
-![javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-
-![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-![Cocos](https://img.shields.io/badge/-Cocos-333333?style=flat&logo=Cocos)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
-
-![AppleOS](https://img.shields.io/badge/-AppleOS-333333?style=flat&logo=Apple)
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
-
-
-
 ### 📱 My Apps
 
 
