@@ -15,7 +15,7 @@ Outside of work, I enjoy cycling, hiking, and running.
   <tr>
 	  <td>
 		  <a href="https://apps.apple.com/cn/app/pfollow/id6742342382?l=en-GB">
-			  <img src="http://pjhubs.com/images/2025/app/pfollow/cover2.png" />
+			  <img src="http://pjhubs.com/images/2025/app/pfollow/cover3.png" />
 		  </a>
 	  </td>
 	  <td>
