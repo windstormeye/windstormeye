@@ -25,7 +25,7 @@ Outside of work, I enjoy cycling, hiking, and running.
 	  </td>
 	  <td>
 	    	<a href="https://apps.apple.com/cn/app/translatep/id6737735627?l=en-GB&mt=12">
-			<img src="http://pjhubs.com/images/2025/app/translatep/2_0.jpg" />
+			<img src="https://github.com/windstormeye/TranslateP/blob/master/TranslateP_resources/posters/2.0/2.jpg" />
 	    	</a>
     	</td>
   <tr>
