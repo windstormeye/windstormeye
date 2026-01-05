@@ -8,14 +8,14 @@ Outside of work, I enjoy cycling, hiking, and running.
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-	  <th>PFollow: 自己从全世界路过的地方</th>
+	  <th>PFollow: 从全世界路过</th>
 	  <th>PhotoP Studio: 开启空间修图全新体验</th>
 	  <th>TranslateP: 无需网络的 AI 翻译小工具</th>
   </tr>
   <tr>
 	  <td>
 		  <a href="https://apps.apple.com/cn/app/pfollow/id6742342382?l=en-GB">
-			  <img src="http://pjhubs.com/images/2025/app/pfollow/cover3.png" />
+			  <img src="http://pjhubs.com/images/2025/app/pfollow/111_cover.png" />
 		  </a>
 	  </td>
 	  <td>
@@ -36,7 +36,7 @@ Outside of work, I enjoy cycling, hiking, and running.
   <tr>
       	<td>
 	    	<a href="https://apps.apple.com/us/app/photop/id1639575048">
-			<img src="http://pjhubs.com/images/app/photop/1.0/0.jpg" />
+			<img src="http://pjhubs.com/images/2025/app/photop/1.4.0.png" />
 	    	</a>
     	</td>
     	<td>
