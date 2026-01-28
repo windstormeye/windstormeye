@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm 翁培钧, AKA `PJHubs`
 
-Work for ByteDance, included [CupCut](https://www.capcut.cn), [Xigua Video](https://www.ixigua.com) and [TouTiao](https://www.toutiao.com).
-Outside of work, I enjoy cycling, hiking, and running.
+Previously at ByteDance, working on [CapCut](https://www.capcut.cn), [Xigua Video](https://www.ixigua.com)  and [TouTiao](https://www.toutiao.com). Now, I work for myself. Outside of work, I enjoy cycling, hiking, and running.
 
 ### 📱 My Apps
 
