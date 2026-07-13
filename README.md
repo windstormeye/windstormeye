@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm 翁培钧, AKA `PJHubs`
 
-Previously at ByteDance, working on [CapCut](https://www.capcut.cn), [Xigua Video](https://www.ixigua.com)  and [TouTiao](https://www.toutiao.com). Now, I work for myself. Outside of work, I enjoy cycling, hiking, and running.
+Founder of PJ.Studio | Previously worked at ByteDance | Dev of Movinn、PFollow、PhotoP app |  WWDC19 Scholarship
 
 ### 📱 My Apps
 
