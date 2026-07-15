@@ -1,7 +1,3 @@
-### 👋 Hello, I'm 翁培钧, AKA `PJHubs`
-
-Founder of PJ.Studio | Previously worked at ByteDance | Dev of Movinn、PFollow、PhotoP app |  WWDC19 Scholarship
-
 ### 📱 My Apps
 
 
