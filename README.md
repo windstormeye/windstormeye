@@ -5,7 +5,7 @@
   <tr>
 	  <th>Movinn: 可视化你的运动轨迹</th>
 	  <th>PFollow: 从全世界路过</th>
-	  <th>PhotoP Studio: 开启空间修图全新体验</th>
+	  <th>休息菜单/Relax Menu: 休息一下</th>
   </tr>
   <tr>
 	  <td>
@@ -19,8 +19,8 @@
 		  </a>
 	  </td>
 	  <td>
-		  <a href="https://apps.apple.com/cn/app/photop-studio/id6739296926?l=en-GB">
-			  <img src="http://pjhubs.com/images/2024/photop_studio_0.png" />
+		  <a href="https://apps.apple.com/cn/app/relax-menu/id6794621792">
+			  <img src="https://pjhubs.com/images/2026/08/01/1.jpg" />
 		  </a>
 	  </td>
   <tr>
