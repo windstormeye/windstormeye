@@ -24,13 +24,13 @@
 		  </a>
 	  </td>
   <tr>
-	  <th>PhotoP: 专注 macOS 平台的修图工具</th>
+	  <th>PhotoPeaks: All-in-One Studio</th>
 	  <th>星球罐子: 拥有属于你的宇宙</th>
 	  <th>TranslateP: 无需网络的 AI 翻译小工具</th>
   </tr>
   <tr>
       	<td>
-	    	<a href="https://apps.apple.com/us/app/photop/id1639575048">
+	    	<a href="https://apps.apple.com/cn/app/photopeaks/id1639575048">
 			<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/34/e0/3f34e082-0f1c-a4bb-2c8c-de031dffcce9/_U4e2d_U6587-3.jpg/800x500bb.jpg" />
 	    	</a>
     	</td>
