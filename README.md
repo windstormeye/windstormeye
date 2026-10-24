@@ -3,13 +3,13 @@
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-	  <th>Movinn: 可视化你的运动轨迹</th>
+	  <th>MovingPath: 可视化你的运动轨迹</th>
 	  <th>PFollow: 从全世界路过</th>
 	  <th>休息菜单/Relax Menu: 休息一下</th>
   </tr>
   <tr>
 	  <td>
-	    	<a href="https://apps.apple.com/app/movinn-visualize-workouts/id6782782334">
+	    	<a href="https://apps.apple.com/us/app/movingpath/id6782782334">
 			<img src="https://pjhubs.com/images/2026/07/01/1.png" />
 	    	</a>
     	</td>
