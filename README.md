@@ -20,13 +20,13 @@
 	  </td>
 	  <td>
 		  <a href="https://apps.apple.com/cn/app/relax-menu/id6794621792">
-			  <img src="https://pjhubs.com/images/2026/08/01/1.jpg" />
+			  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/c2/c6/fac2c6ce-8da6-af3d-8a11-3e47503f6e23/01-_U4e13_U6ce8_U5230_U70b9_U4ed4_U4ed4_U5b88_U4f4f_U5c4f_U5e55.png/800x500bb.jpg" />
 		  </a>
 	  </td>
   <tr>
 	  <th>PhotoPeaks: All-in-One Studio</th>
 	  <th>星球罐子: 拥有属于你的宇宙</th>
-	  <th>TranslateP: 无需网络的 AI 翻译小工具</th>
+	  <th>CopyPop: 仅需两次 cmd + c 即可翻译</th>
   </tr>
   <tr>
       	<td>
@@ -40,8 +40,8 @@
 		</a>
     	</td>
     	<td>
-	    	<a href="https://apps.apple.com/cn/app/translatep/id6737735627?l=en-GB&mt=12">
-			<img src="https://github.com/windstormeye/TranslateP/blob/master/TranslateP_resources/posters/2.0/2.jpg" />
+	    	<a href="https://apps.apple.com/cn/app/copypop/id6737735627">
+			<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/83/36/e1833686-6488-5d55-ecc9-d49aee13275c/1.png/800x500bb.jpg" />
 	    	</a>
     	</td>
   </tr>
